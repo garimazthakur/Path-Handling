@@ -40,7 +40,6 @@ print("this is Path12", Path12)
 print("this is Path13", Path13)
 print("this is Path14", Path14)
 
-# """
 
 #  output: 
 # this is path c:\Users\garim\Desktop\gz7.ai\Path-Handling\Paths\get_parent_dir_path.py
@@ -52,10 +51,13 @@ print("this is Path14", Path14)
 # this is Path6 C:\Users\garim\Desktop\gz7.ai
 # this is Path7 c:\Users\garim\Desktop\gz7.ai\Path-Handling
 # this is Path8 c:\Users\garim\Desktop\gz7.ai\Path-Handling\Paths
-# this is Path9 c:\Users\garim\Desktop\gz7.ai\Path-Handling\Paths\Files
-# this is Path10
-# this is Path11 C:\Users\garim\Desktop\gz7.ai\Path-Handling 
+# this is Path9 c:\Users\garim\Desktop\gz7.ai\Path-Handling\Paths
+# this is Path10 c:\Users\garim\Desktop\gz7.ai\Path-Handling\Paths\Files
+# this is Path11
+# this is Path12 C:\Users\garim\Desktop\gz7.ai\Path-Handling
+# this is Path13 C:\Users\garim\Desktop\gz7.ai\Path-Handling
+# this is Path14
+
    
-# """
 
     
